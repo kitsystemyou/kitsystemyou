@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Backend Engineer
 - 🌱 I’m currently learning React.js
 - 💬 Ask me about Python(Flask, FastAPI), Golang(Echo)
-- ⚡ Fun fact: Next.js, FastAPI, Koa.js
+- ⚡ Fun fact: Next.js, FastAPI, Ruby on Rails
 
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
